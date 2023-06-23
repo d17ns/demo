@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "samsung": [
+    {
+      "id": 1,
+      "title": "Samsung S22",
+      "imageUrl": "https://via.placeholder.com/600/92c952",
+      "price": "12000"
+    },
+    {
+      "id": 2,
+      "title": "Samsung A13",
+      "imageUrl": "https://via.placeholder.com/600/771796",
+      "price": "12000"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "xiaomi": [
+    {
+      "id": 1,
+      "title": "Xiaomi S22",
+      "imageUrl": "https://via.placeholder.com/600/92c952",
+      "price": "12000"
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi A13",
+      "imageUrl": "https://via.placeholder.com/600/771796",
+      "price": "12000"
+    }
+  ]
 }
