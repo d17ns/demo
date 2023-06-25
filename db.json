@@ -1,36 +1,90 @@
 {
   "samsung": [
-    {
-      "id": 1,
-      "title": "Samsung S22",
-      "imageUrl": "https://via.placeholder.com/600/92c952",
-      "price": "12000"
-    },
-    {
-      "id": 2,
-      "title": "Samsung A13",
-      "imageUrl": "https://via.placeholder.com/600/771796",
-      "price": "12000"
-    },
-    {
-      "id": 3,
-      "title": "Samsung A23",
-      "imageUrl": "https://via.placeholder.com/600/771796",
-      "price": "12000"
-    },
-    {
-      "id": 4,
-      "title": "Samsung A33",
-      "imageUrl": "https://via.placeholder.com/600/771796",
-      "price": "12000"
-    },
-    {
-      "id": 2,
-      "title": "Samsung A13",
-      "imageUrl": "https://via.placeholder.com/600/771796",
-      "price": "12000"
-    }
-  ],
+  {
+    "id": 1,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a14-5g.png",
+    "name": "Samsung Galaxy A14 5G",
+    "price": "2.999.999"
+  },
+  {
+    "id": 2,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a23-5g.png",
+    "name": "Samsung Galaxy A23 5G",
+    "price": "3.799.999"
+  },
+  {
+    "id": 3,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a33-5g.png",
+    "name": "Samsung Galaxy A33 5G",
+    "price": "4.999.999"
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a34-5g.png",
+    "name": "Samsung Galaxy A34 5G",
+    "price": "5.399.000"
+  },
+  {
+    "id": 5,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a53-5g.png",
+    "name": "Samsung Galaxy A53 5G",
+    "price": "5.999.000"
+  },
+  {
+    "id": 6,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-a54-5g.png",
+    "name": "Samsung Galaxy A54 5G",
+    "price": "6.399.000"
+  },
+  {
+    "id": 7,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-m23-5g.png",
+    "name": "Samsung Galaxy M23 5G",
+    "price": "3.699.000"
+  },
+  {
+    "id": 8,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-m33-5g.png",
+    "name": "Samsung Galaxy M33 5G",
+    "price": "4.199.000"
+  },
+  {
+    "id": 9,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-m53-5g.png",
+    "name": "Samsung Galaxy M53 5G",
+    "price": "5.799.000"
+  },
+  {
+    "id": 10,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-s23-5g.png",
+    "name": "Samsung Galaxy S23 5G",
+    "price": "13.999.000"
+  },
+  {
+    "id": 11,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-s23-plus-5g.png",
+    "name": "Samsung Galaxy S23+ 5G",
+    "price": "17.999.000"
+  },
+  {
+    "id": 12,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-s23-ultra-5g.png",
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "price": "21.999.000"
+  },
+  {
+    "id": 13,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-z-flip4-5g.png",
+    "name": "Samsung Galaxy Z Flip4 5G",
+    "price": "13.999.000"
+  },
+  {
+    "id": 4,
+    "image": "https://raw.githubusercontent.com/d17ns/assets/main/samsung-z-fold4-5g.png",
+    "name": "Samsung Galaxy Z Fold4 5G",
+    "price": "26.999.000"
+  },
+],
   "xiaomi": [
     {
       "id": 1,
